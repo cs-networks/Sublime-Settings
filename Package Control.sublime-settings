@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AlignTab",
+		"Anaconda",
+		"AutoDocstring",
+		"Boxy Theme",
+		"BracketHighlighter",
+		"Enki Theme",
+		"FileDiffs",
+		"Git",
+		"GitGutter",
+		"GitHub Markdown Snippets",
+		"Inc-Dec-Value",
+		"Jekyll",
+		"Markdown Preview",
+		"Material Monokai",
+		"MikrotikScript",
+		"One Dark Color Scheme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeLinter-flake8",
+		"SublimeLinter-json",
+		"SublimeLinter-pep8",
+		"SublimeLinter-pylint",
+		"SystemVerilog",
+		"Theme - Cobalt2",
+		"Theme - Flatland",
+		"Theme - Hero",
+		"Unicode Character Highlighter",
+		"VCS Gutter",
+		"WordHighlight"
+	]
+}
