@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
 	"detect_indentation": true,
 	"draw_indent_guides": true,
 	"draw_white_space": "all",
@@ -16,6 +16,7 @@
 	[
 		"Boxy Theme",
 		"Markdown",
+		"One Dark Color Scheme",
 		"Vintage"
 	],
 	"line_padding_bottom": 1,
